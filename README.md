@@ -1,2 +1,3 @@
 # hackerrank-solutions
-Soluções para os problemas do site HackerRank
+## Repositório de Soluções de Exercícios HackerRank
+Este repositório contém soluções para vários exercícios do HackerRank
